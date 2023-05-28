@@ -1,0 +1,316 @@
+
+.services{
+    background-color: #1B1112;
+    overflow: hidden;
+    padding: 286px 164px 447px 140px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  .relativeWrapperTwo {
+    margin-right: 314px;
+    position: relative;
+  }
+  .line56 {
+    width: 1px;
+    height: 1114px;
+    background: #6A6364;
+    /* background-color: neutral-graphite-black-600; */
+    opacity: 0.2;
+    position: absolute;
+    left: 0;
+    bottom: -562px;
+  }
+  .line57 {
+    width: 1px;
+    height: 1114px;
+    background: #6A6364;
+    /* background-color: $neutral-graphite-black-600; */
+    opacity: 0.2;
+    position: absolute;
+    right: -25px;
+    bottom: -562px;
+  }
+  .servicesForEveryone {
+   
+
+    color: #FBF9F7;;
+    position: absolute;
+    right: -150px;
+    top: -158px;
+    /* Desktop/Headline 2 - M */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 140%;
+/* identical to box height, or 56px */
+
+display: flex;
+align-items: center;
+color: #FBF9F7;
+    /* @include desktop-headline-2-m; */
+  }
+  .servicesForEveryoneTwo {
+    background-color: rgba(59, 50, 51, 0.12);
+    padding: 8px 37px 17px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    border: 1px solid #3B3233;
+    /* border: 1px solid $neutral-graphite-black-800; */
+  }
+  .relativeWrapperOne {
+    margin-bottom: 39px;
+    margin-left: 2px;
+    position: relative;
+  }
+  .speak1 {
+    padding: 5.75px 2.69px 5.75px 2.7px;
+    display: flex;
+    align-items: center;
+    /* position: relative; */
+    position: absolute;
+    right: 90px;
+    bottom: 5px;
+  }
+  .vector {
+    flex: 1;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .rectangle22620 {
+
+    width: 222px;
+    height: 132px;
+    background-color: rgba(204, 185, 157, 0.2);
+    border-radius: 144px;
+    position: relative;
+    filter: blur(92px);
+    /* position: absolute; */
+
+  }
+  .frame3393 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .frame3394 {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+  }
+  .rectangle55 {
+    width: 2px;
+    height: 6px;
+    background-color: rgba(202, 54, 37, 0);
+  }
+  .rectangle56 {
+    width: 2px;
+     background: #CA3625;
+    ;
+    flex: 1;
+  }
+  .nonNativespeakers {
+    max-width: 201px;
+    color: rgba(255, 255, 255, 1);
+    /* @include desktop-subtitle-3-r; */
+  }
+  .servicesForEveryoneThree {
+    background-color: rgba(59, 50, 51, 0.12);
+    padding: 8px 37px 17px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    right: -290px;
+    bottom: -62px;
+    border: 1px solid #3B3233;
+    /* border: 1px solid $neutral-graphite-black-800; */
+  }
+  .flexWrapperTwo {
+    /* background-color: rgba(204, 185, 157, 0.2); */
+    width: 186px;
+    /* height: 132px; */
+    margin-bottom: 39px;
+    margin-left: 2px;
+    border-radius: 144px;
+    padding: 35px 7px 5px 33px;
+    display: flex;
+    align-items: flex-start;
+position:relative;
+    /* filter: blur(6px); */
+
+
+  }
+
+  .rectangle22621 {
+
+    width: 132px;
+    height: 132px;
+    background-color: rgba(204, 185, 157, 0.2);
+    border-radius: 144px;
+    filter: blur(46px);
+    position: absolute;
+  }
+
+  .boy11 {
+    padding: 6px 15.46px;
+    display: flex;
+    align-items: center;
+    
+  }
+  .group {
+    width: 61.08px;
+    height: 80px;
+    
+  }
+  .servicesForEveryoneFour {
+    background-color: rgba(59, 50, 51, 0.12);
+    padding: 8px 37px 17px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: -290px;
+    border: 1px solid #3B3233;
+    /* border: 1px solid $neutral-graphite-black-800; */
+  }
+  .sunset1 {
+    padding: 10.71px 10.71px 10.83px 10.33px;
+    position: relative;
+  }
+  .vectorTwo {
+    width: 14.7%;
+    height: 2.57%;
+    background: #CCB99D;
+
+    /* background-color: $tint-bronze-bronze-300; */
+    position: absolute;
+    left: 55.61px;
+    top: 79.3px;
+  }
+  .flexWrapperFour {
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("https://static.overlay-tech.com/assets/e60003e3-cb12-4dc6-aedd-9ab6cbf8e0f9.svg");
+    padding: 33.11px 7.1px 1.86px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .vectorThree {
+    width: 41.67%;
+    height: 66.64%;
+    margin-bottom: 7.1px;
+    margin-left: 33.11px;
+  }
+  .flexWrapperEleven {
+    padding: 0 0 0 7.1px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .vectorFour {
+    width: 5.57%;
+    background: #CCB99D;
+
+    /* background-color: $tint-bronze-bronze-300; */
+    margin-right: 23.64px;
+    align-self: stretch;
+  }
+  .vectorFive {
+    width: 55.57%;
+    background: #CCB99D;
+
+    /* background-color: $tint-bronze-bronze-300; */
+    align-self: stretch;
+  }
+  .vectorSix {
+    width: 4.16%;
+    height: 6.68%;
+    background-color: #CCB99D;
+
+    /* background-color: $tint-bronze-bronze-300; */
+  }
+  .servicesForEveryoneFive {
+    background-color: rgba(59, 50, 51, 0.12);
+    padding: 8px 37px 17px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    right: -290px;
+    bottom: -352px;
+    border: 1px solid #3B3233;
+    /* border: 1px solid $neutral-graphite-black-800; */
+  }
+  .owner1 {
+    width: 92px;
+    height: 92px;
+  }
+  .relativeWrapperThree {
+    margin-right: 24px;
+    position: relative;
+  }
+  .businessman1 {
+    padding: 0.41px 4.37px 0.31px 4.36px;
+    display: flex;
+    align-items: center;
+  }
+  .relativeWrapperFour {
+    margin-top: 62px;
+    position: relative;
+  }
+  .line59 {
+    width: 1px;
+    height: 1114px;
+    
+    background-color:#6A6364;
+    opacity: 0.2;
+    position: absolute;
+    left: 0;
+    bottom: -500px;
+  }
+  .servicesForEveryoneSix {
+    /* background-color: rgba(59, 50, 51, 0.12); */
+    padding: 8px 37px 51px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    background: rgba(59, 50, 51, 0.12);
+/* Neutral/Graphite Black-800 */
+
+border: 1px solid #3B3233
+    /* border: 1px solid $neutral-graphite-black-800; */
+  }
+  .family21 {
+    padding: 0 0 0.01px;
+    display: flex;
+    align-items: center;
+  }
+  .families {
+    width: 201px;
+    color: rgba(255, 255, 255, 1);
+    /* @include desktop-subtitle-3-r; */
+  }
+  .relativeWrapperFive {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 1299px;
+    top: 286px;
+  }
+  .g2589 {
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("https://static.overlay-tech.com/assets/dc2350c1-dcdd-4d8f-afb0-986cd36e307c.png");
+    padding: 53.97px 48.9px 9.53px 31.6px;
+    display: flex;
+    align-items: flex-start;
+  }
